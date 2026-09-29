@@ -235,7 +235,7 @@ The notebooks are the analytical record of Mobility v2. The **Interactive Mobili
 
 Rather than presenting a fixed sequence of charts, the Streamlit application lets readers move across time, geography, transportation modes, anomaly events, forecasting results, and counterfactual comparisons.
 
-<!-- SHOWCASE HERO IMAGE TO BE ADDED HERE -->
+![NYC Congestion Pricing Mobility Interactive Showcase](infographics/showcase.png)
 
 The Showcase draws on final analytical outputs produced throughout the project, including the unified mobility panel, mobility environments, anomaly and stress-event surfaces, forecasting results, and counterfactual estimates.
 
